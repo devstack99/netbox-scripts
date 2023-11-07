@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-VERSION=1.7.0
+VERSION=3.6.4
 URL=https://github.com/digitalocean/netbox/archive/v${VERSION}.tar.gz
 CURDIR=`pwd`
 
